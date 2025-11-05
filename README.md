@@ -95,7 +95,7 @@ Berikut penjelasan tampilan antarmuka dari aplikasi **ardiansyah jaya putra**, y
 ---
 
 ### 🔐 1. Halaman Login
-![Login](Framework XPUPB/WEBSAMPLE/mockup/login.jpg)
+![Login](Framework XPUPB/WEBSAMPLE/mockup/login.png)
 
 > Digunakan untuk mengautentikasi pengguna sebelum masuk ke sistem.  
 > Admin wajib login agar dapat mengelola data data pemesanan sepatu,dan pembayaran.
