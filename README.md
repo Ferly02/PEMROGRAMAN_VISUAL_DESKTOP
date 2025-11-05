@@ -105,7 +105,7 @@ Berikut penjelasan tampilan antarmuka dari aplikasi **ardiansyah jaya putra**, y
 ### 🏠 2. halaman utama
 ![halaman utama](mockup/halamanutama.png)
 
-> Menampilkan ringkasan informasi perpustakaan seperti pembayaran, dan data pemesanan.  
+> Menampilkan ringkasan informasi toko sepatu seperti pembayaran, dan data pemesanan.  
 > Dari sini admin dapat menavigasi ke menu utama lainnya.
 
 ---
