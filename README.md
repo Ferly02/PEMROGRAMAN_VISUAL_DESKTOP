@@ -147,7 +147,7 @@ Berikut penjelasan tampilan antarmuka dari aplikasi **ardiansyah jaya putra**, y
 
 | Halaman | Preview |
 |----------|----------|
-| Dashboard | ![Dashboard](mockup/dashboard.png) |
+| Dashboard | ![Dashboard](mockup/halamanutama.png) |
 | Data pemesann sepatu | ![Data pemesann sepatu  ](mockup/databuku.png) |
 | Data pembayaran| ![Data pembayaran](mockup/datakaryawan.png) |
 
