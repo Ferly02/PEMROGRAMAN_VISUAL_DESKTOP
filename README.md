@@ -118,7 +118,7 @@ Berikut penjelasan tampilan antarmuka dari aplikasi **ardiansyah jaya putra**, y
 ---
 
 ### 👥 4. data pembayaran
-![Data Karyawan](mockup/datakaryawan.png)
+![data pembayaran](Framework XPUPB/WEBSAMPLE/mockup/pembayaran.png)
   
 > Saat ini menu ini masih **kosong**, karena belum selesai pada sisi backend.
 
