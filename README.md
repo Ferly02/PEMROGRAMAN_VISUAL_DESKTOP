@@ -111,7 +111,7 @@ Berikut penjelasan tampilan antarmuka dari aplikasi **ardiansyah jaya putra**, y
 ---
 
 ### 📚 3. Data pemesanan sepatu
-![Data Buku](mockup/databuku.png)
+![Data pemesanan](mockup/datapemesan.png)
 
 > Berisi daftar pemesanan id,nomer pesanan tanggal pesanan merek sepatu,harga sepatu,dll.  
 
